@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12790" started-at="2018-07-10T11:12:19Z" finished-at="2018-07-10T11:12:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12790" started-at="2018-07-10T11:12:19Z" finished-at="2018-07-10T11:12:32Z">
+      <class name="com.crm.practice.PracticeTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.practice.PracticeTest@6f7fd0e6]" name="configBC" is-config="true" duration-ms="6311" started-at="2018-07-10T11:12:19Z" finished-at="2018-07-10T11:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.practice.PracticeTest@6f7fd0e6]" name="configBM" is-config="true" duration-ms="0" started-at="2018-07-10T11:12:26Z" finished-at="2018-07-10T11:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="practiceTest()[pri:0, instance:com.crm.practice.PracticeTest@6f7fd0e6]" name="practiceTest" duration-ms="6459" started-at="2018-07-10T11:12:26Z" finished-at="2018-07-10T11:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.practice.PracticeTest@6f7fd0e6]" name="configAM" is-config="true" duration-ms="0" started-at="2018-07-10T11:12:32Z" finished-at="2018-07-10T11:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.practice.PracticeTest@6f7fd0e6]" name="configAC" is-config="true" duration-ms="1" started-at="2018-07-10T11:12:32Z" finished-at="2018-07-10T11:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.crm.practice.PracticeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
